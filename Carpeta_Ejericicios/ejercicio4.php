@@ -43,8 +43,7 @@
             $mayor = $edad3;
             $personaMayor = $nombre3;
         }
-        echo "$mayor";
-        echo "$personaMayor";
+        echo "La Persona $personaMayor tiene una Mayor edad con $mayor años";
     ?>
 </body>
 </html>
